@@ -1,0 +1,128 @@
+[
+  {
+    "crossedPrice": {
+      "currencyIso": "KZT",
+      "formattedValue": "34 990 ₸",
+      "priceType": "CROSSED",
+      "value": 34990
+    },
+    "name": "Смартфон Huawei Y3 2018, 8 GB, Grey",
+    "price": {
+      "currencyIso": "KZT",
+      "formattedValue": "29 390 ₸",
+      "priceType": "BUY",
+      "value": 29390
+    },
+    "url": "/catalog/smartphones/p/gsm-huawei-y--thxad-grey-101316",
+    "image": "/images/101316.jpg",
+    "brand": "Huawei"
+  },
+  {
+    "name": "Смартфон Huawei Y3 &#40;2017&#41;, 8 GB, Gold",
+    "price": {
+      "currencyIso": "KZT",
+      "formattedValue": "32 990 ₸",
+      "priceType": "BUY",
+      "value": 32990
+    },
+    "image": "/images/56104.jpg",
+    "url": "/catalog/smartphones/p/gsm-huawei-y--thxad-gold-56104",
+    "brand": "Huawei"
+  },
+  {
+    "name": "Смартфон Nokia 2, White",
+    "price": {
+      "currencyIso": "KZT",
+      "formattedValue": "39 990 ₸",
+      "priceType": "BUY",
+      "value": 39990
+    },
+    "image": "/images/64308.jpg",
+    "url": "/catalog/smartphones/p/gsm-nokia--thxad-white-64308",
+    "brand": "Nokia"
+  },
+  {
+    "crossedPrice": {
+      "currencyIso": "KZT",
+      "formattedValue": "59 990 ₸",
+      "priceType": "CROSSED",
+      "value": 59990
+    },
+    "name": "Смартфон Samsung Galaxy J3 &#40;2017&#41;, 16 GB, Gold",
+    "price": {
+      "currencyIso": "KZT",
+      "formattedValue": "49 890 ₸",
+      "priceType": "BUY",
+      "value": 49890
+    },
+    "image": "/images/56192.jpg",
+    "url": "/catalog/smartphones/p/gsm-samsung-smjfzddskz-thxad-galaxy-j--gold-56192",
+    "brand": "Samsung"
+  },
+  {
+    "crossedPrice": {
+      "currencyIso": "KZT",
+      "formattedValue": "79 990 ₸",
+      "priceType": "CROSSED",
+      "value": 79990
+    },
+    "name": "Смартфон Samsung Galaxy J5 &#40;2017&#41;, 16 GB, Gold",
+    "price": {
+      "currencyIso": "KZT",
+      "formattedValue": "59 890 ₸",
+      "priceType": "BUY",
+      "value": 59890
+    },
+    "image": "/images/56196.jpg",
+    "url": "/catalog/smartphones/p/gsm-samsung-smjfzdnskz-thxad-galaxy-j--gold-56196",
+    "brand": "Samsung"
+  },
+  {
+    "crossedPrice": {
+      "currencyIso": "KZT",
+      "formattedValue": "49 990 ₸",
+      "priceType": "CROSSED",
+      "value": 49990
+    },
+    "name": "Смартфон LG K8 &#40;2017&#41;, 16 GB, Black",
+    "price": {
+      "currencyIso": "KZT",
+      "formattedValue": "44 890 ₸",
+      "priceType": "BUY",
+      "value": 44890
+    },
+    "image": "/images/56213.jpg",
+    "url": "/catalog/smartphones/p/gsm-lg-xakazku-thxad-k--black-56213",
+    "brand": "LG"
+  },
+  {
+    "crossedPrice": {
+      "currencyIso": "KZT",
+      "formattedValue": "249 890 ₸",
+      "priceType": "CROSSED",
+      "value": 249890
+    },
+    "name": "Смартфон Huawei Mate 10 Pro, 128 GB, Brown",
+    "price": {
+      "currencyIso": "KZT",
+      "formattedValue": "220 890 ₸",
+      "priceType": "BUY",
+      "value": 220890
+    },
+    "image": "/images/64304.jpg",
+    "url": "/catalog/smartphones/p/gsm-huawei-mate--pro-thxad-brown-64304",
+    "brand": "Huawei"
+  },
+  {
+    "name": "Смартфон Xiaomi MI A2, 64 GB, Gold",
+    "price": {
+      "currencyIso": "KZT",
+      "formattedValue": "93 800 ₸",
+      "priceType": "BUY",
+      "value": 93800
+    },
+    "image": "/images/110543.jpg",
+    "url": "/catalog/smartphones/p/gsm-xiaomi-mi-a-gb-thxmd-gold-110543",
+    "brand": "Xiaomi"
+  }
+]
