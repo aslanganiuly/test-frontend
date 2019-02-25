@@ -15,15 +15,13 @@
 import Product from './components/Product.vue'
 import header from './components/header.vue'
 import productFilter from './components/productFilter.vue'
-import sort from './components/sort.vue'
 
 export default {
   name: 'app',
   components: {
     'Product': Product,
     'shopHeader': header,
-    'productFilter': productFilter,
-    'sort': sort
+    'productFilter': productFilter
   }
 }
 </script>
