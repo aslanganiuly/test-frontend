@@ -75,7 +75,7 @@ export default {
   .main{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     margin-left: 2%;
     flex: 78%;
   }
