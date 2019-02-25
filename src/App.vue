@@ -216,7 +216,7 @@ select {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background: url('../../public/images/td_d_sort_arrow.png') 96% / 10% no-repeat #eee;
+  background: url('../public/images/td_d_sort_arrow.png') 96% / 10% no-repeat #eee;
 }
 
 select::-ms-expand { 
